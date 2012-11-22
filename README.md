@@ -11,8 +11,9 @@ PokemonTools
 あと一部のjavaは動作が正常ではないようです（主にファイル入出力）。
 
 # DoubleTypeChecker(DTC) #
-[最新版ver1.02](https://github.com/Zzz-/Pokemon-Tool/blob/master/DoubleTypeChecker/DTCver1.02.zip?raw=true "DTCv1.02")
-※2012/11/17 ver1.02に更新
+[最新版ver1.10](https://github.com/Zzz-/Pokemon-Tool/blob/master/DoubleTypeChecker/DTCver1.10.zip?raw=true "DTCv1.10")
+
+※2012/11/22 ver1.10に更新
 
 ポケモン（やそれに似たようなゲーム）のパーティのタイプの穴を
 複合タイプという観点でチェックしてくれます。
