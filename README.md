@@ -10,16 +10,16 @@ PokemonTools
 今のところ全てjavaです。バージョン7以降じゃないと動作しません。
 あと一部のjavaは動作が正常ではないようです（主にファイル入出力）。
 
-# DoubleTypeChecker(DTC) #
-[最新版ver1.12](https://github.com/Zzz-/Pokemon-Tool/blob/master/DoubleTypeChecker/DTCver1.12.zip?raw=true "DTCv1.12")
+# 複合相性診断ツール DoubleTypeChecker(DTC) #
+[最新版ver1.12a](https://github.com/Zzz-/Pokemon-Tool/blob/master/DoubleTypeChecker/DTCver1.12a.zip?raw=true "DTCv1.12a")
 
-※2012/11/25 ver1.12に更新
+※2012/11/26 ver1.12aに更新
 
 ポケモン（やそれに似たようなゲーム）のパーティのタイプの穴を
 複合タイプという観点でチェックしてくれます。
 また新しいメンバーの提案もしてくれます。
 
-# MakePokemonPartySystem(MPPS) #
+# 自動パーティ生成ツール MakePokemonPartySystem(MPPS) #
 [最新版ver1.03](https://github.com/Zzz-/Pokemon-Tool/blob/master/MakePokemonPartySystem/MPPSver1.03.zip?raw=true "MPPSv1.03")
 
 入力済みのデータから自動的にパーティを作成します。バトルタワーごっことかできます。
@@ -32,7 +32,7 @@ PokemonTools
 
 # 努力値思い出し機 #
 [Web版のみ](http://pokemreffort.appspot.com/)
-振ってる内にうっかり分からなくなった、あるいは忘れてしまった努力値を逆算します。
+振ってる内にうっかり分からなくなった、あるいは忘れてしまった努力値を分かる範囲で逆算します。
 
 個体値が不明な場合の幅のある値にも対応しているので旅のお供の鍛錬具合も分かります。
 
