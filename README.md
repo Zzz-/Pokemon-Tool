@@ -11,13 +11,16 @@ PokemonTools
 あと一部のjavaは動作が正常ではないようです（主にファイル入出力）。
 
 # 複合相性診断ツール DoubleTypeChecker(DTC) #
-[最新版ver1.13](https://github.com/Zzz-/Pokemon-Tool/blob/master/DoubleTypeChecker/DTCver1.13.zip?raw=true "DTCv1.13")
+[最新版ver1.14](https://github.com/Zzz-/Pokemon-Tool/blob/master/DoubleTypeChecker/DTCver1.14.zip?raw=true "DTCv1.14")
 
-※2012/12/02 ver1.13に更新
+※2013/01/25 ver1.14に更新
 
+通称DTC先生。
 ポケモン（やそれに似たようなゲーム）のパーティのタイプの穴を
 複合タイプという観点でチェックしてくれます。
 また新しいメンバーの提案もしてくれます。
+
+※特性はポケモンの物なら考慮できますが種族値と技は無理です。
 
 # 自動パーティ生成ツール MakePokemonPartySystem(MPPS) #
 [最新版ver1.03](https://github.com/Zzz-/Pokemon-Tool/blob/master/MakePokemonPartySystem/MPPSver1.03.zip?raw=true "MPPSv1.03")
