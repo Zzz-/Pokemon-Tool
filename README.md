@@ -11,13 +11,14 @@ PokemonTools
 あと一部のjavaは動作が正常ではないようです（主にファイル入出力）。
 
 # 複合相性診断ツール DoubleTypeChecker(DTC) #
-[最新版ver1.14](https://github.com/Zzz-/Pokemon-Tool/blob/master/DoubleTypeChecker/DTCver1.14.zip?raw=true "DTCv1.14")
+[最新版ver1.15](https://github.com/Zzz-/Pokemon-Tool/blob/master/DoubleTypeChecker/DTCver1.15.zip?raw=true "DTCv1.15")
 
-※2013/01/25 ver1.14に更新
+※2013/03/09 ver1.15に更新
 
 通称DTC先生。
 ポケモン（やそれに似たようなゲーム）のパーティのタイプの穴を
 複合タイプという観点でチェックしてくれます。
+
 また新しいメンバーの提案もしてくれます。
 
 ※特性はポケモンの物なら考慮できますが種族値と技は無理です。
@@ -35,6 +36,7 @@ PokemonTools
 
 # 努力値思い出し機 #
 [Web版のみ](http://pokemreffort.appspot.com/)
+
 振ってる内にうっかり分からなくなった、あるいは忘れてしまった努力値を分かる範囲で逆算します。
 
 個体値が不明な場合の幅のある値にも対応しているので旅のお供の鍛錬具合も分かります。
