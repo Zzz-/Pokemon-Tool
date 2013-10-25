@@ -11,11 +11,11 @@ PokemonTools
 あと一部のjavaは動作が正常ではないようです（主にファイル入出力）。
 
 # 複合相性診断ツール DoubleTypeChecker(DTC) #
-[最新版ver1.15](https://github.com/Zzz-/Pokemon-Tool/blob/master/DoubleTypeChecker/DTCver1.15.zip?raw=true "DTCv1.15")
+[最新版ver1.16](https://github.com/Zzz-/Pokemon-Tool/blob/master/DoubleTypeChecker/DTCKver1.16.zip?raw=true "DTCKv1.16")
 
-※2013/03/09 ver1.15に更新
+※2013/10/25 Kalos ver1.16に更新
 
-通称DTC先生。
+通称DTC先生。カロス地方の環境に対応。
 ポケモン（やそれに似たようなゲーム）のパーティのタイプの穴を
 複合タイプという観点でチェックしてくれます。
 
